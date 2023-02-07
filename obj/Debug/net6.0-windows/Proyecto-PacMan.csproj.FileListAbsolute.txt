@@ -1,0 +1,54 @@
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.exe
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.deps.json
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.runtimeconfig.json
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.dll
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.pdb
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto_PacMan.Form1.resources
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto_PacMan.MyResources.resources
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.AssemblyInfoInputs.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.AssemblyInfo.cs
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.dll
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\refint\Proyecto-PacMan.dll
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.pdb
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.genruntimeconfig.cache
+D:\Usuarios\Escritorio\Tareas\2023 I\Lab. Graficaión y videojuegos\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\ref\Proyecto-PacMan.dll
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.exe
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.deps.json
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.runtimeconfig.json
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.dll
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.pdb
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.csproj.AssemblyReference.cache
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto_PacMan.Form1.resources
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto_PacMan.MyResources.resources
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.csproj.GenerateResource.cache
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.AssemblyInfoInputs.cache
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.AssemblyInfo.cs
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.csproj.CoreCompileInputs.cache
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.dll
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\refint\Proyecto-PacMan.dll
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.pdb
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.genruntimeconfig.cache
+D:\Universidad\8vo Semestre\Graficacion y Videojuegos\Codes\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\ref\Proyecto-PacMan.dll
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.exe
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.deps.json
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.runtimeconfig.json
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.dll
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\bin\Debug\net6.0-windows\Proyecto-PacMan.pdb
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto_PacMan.Form1.resources
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto_PacMan.MyResources.resources
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.AssemblyInfoInputs.cache
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.AssemblyInfo.cs
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.dll
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\refint\Proyecto-PacMan.dll
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.pdb
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\Proyecto-PacMan.genruntimeconfig.cache
+D:\Usuarios\Escritorio\Proyecto-PacMan\Proyecto-PacMan\obj\Debug\net6.0-windows\ref\Proyecto-PacMan.dll
